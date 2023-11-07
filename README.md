@@ -1,6 +1,7 @@
 # Complete Flutter Course Bundle - eCommerce App
 
-This is the official repo for this course:
+
+This a clone of the initial branch of the Code With Andrea Course. I'm working along the classes on the implementations seen.
 
 - [Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
 
